@@ -3,7 +3,11 @@
 ## Intro 
 Assume we have a serials TCP stream, and we already split it and generate it to a series of frames.
 
-You need parsing frames and dump visible characters.
+
+## Require
+
+1. You need parsing frames and dump visible characters.
+2. You need complete tests codes without errors.
 
 ## Frame rules
 
